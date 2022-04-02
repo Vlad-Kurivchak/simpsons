@@ -1,0 +1,23 @@
+h2 {
+    background: chartreuse;
+    color: blue;
+}
+
+h1 {
+    background: chartreuse;
+    color: blue;
+}
+
+p {
+    background: aqua;
+    color: crimson;
+}
+
+ul {
+    background: aqua;
+    color: crimson;
+}
+
+img {
+    width: 300px;
+}
